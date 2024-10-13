@@ -1,0 +1,75 @@
+
+
+.nav-2nd button{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Search-icon{
+    display: flex;
+    align-items: center;
+    background-color: #F5F5F5;
+    padding-right: 12px;
+    padding-left: 15px;
+    font-size: 16px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    cursor: pointer;
+}
+
+.hero-image{
+    height:485px ;
+    background-image: url(https://static.nike.com/a/images/f_auto/dpr_1.5,cs_srgb/w_5061,c_limit/ea62c747-84f5-4951-995f-2a8f4bc107fb/nike-just-do-it.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.hero-text button{
+    color: white;
+    background-color: black;
+    font-size: 17px;
+    font-weight: 600;
+    border-radius: 18px;
+    padding: 3px 18px 8px 18px;
+}
+
+.image-box{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.image-box .box1{
+    height: 100%;
+    width: 100%;
+    background-image: url(https://static.nike.com/a/images/f_auto/dpr_1.5,cs_srgb/w_2530,c_limit/fb0e6aab-63c4-4f79-bb15-cd0340d1e67d/nike-just-do-it.jpg);
+    background-size:cover;
+}
+
+.image-box .box2{
+    height: 100%;
+    width: 100%;
+    background-size:cover;
+    background-image: url(https://static.nike.com/a/images/f_auto/dpr_1.5,cs_srgb/w_2530,c_limit/260f558c-caeb-4560-b2f5-751876c8620c/nike-just-do-it.jpg);
+}
+
+ .image-box .box3{
+    height: 100%;
+    width: 100%;
+    background-size:cover;
+    background-image: url(https://static.nike.com/a/images/f_auto/dpr_1.5,cs_srgb/w_2530,c_limit/d02cd9f2-5f85-4324-8136-0306077fe28f/nike-just-do-it.jpg);
+}
+
+.image-box .box4{
+    height: 100%;
+    width: 100%;
+    background-size:cover;
+    background-image: url(https://static.nike.com/a/images/f_auto/dpr_1.5,cs_srgb/w_2530,c_limit/fccdc480-fb3d-4ca2-b819-5dcbcf66f1c9/nike-just-do-it.jpg);
+}
+
+.New-Arrivals .image{
+    height: 440px;
+    background-image: url(https://static.nike.com/a/images/f_auto/dpr_1.5,cs_srgb/w_5061,c_limit/536b659e-77a1-4231-82ab-edce21b1a717/nike-just-do-it.jpg);
+    background-size: cover;
+    margin-bottom: 80px;
+}
+
+
